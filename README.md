@@ -86,7 +86,7 @@ The inference process has been validated on the following configuration:
     - **GAN model:** Choose whether to use the GAN model during training.
 
 <div align="center">
-<img width="480" height="240" src="/fig/Config_train.png"/>
+<img width="480" height="300" src="/fig/Config_train.png"/>
 </div>
 
 3Click the ‘Start running’ button to begin the training process.
