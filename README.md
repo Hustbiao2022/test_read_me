@@ -65,7 +65,7 @@ The inference process has been validated on the following configuration:
 
 
 <div align="center">
-<img width="480" height="240" src="G:\test_re\20241214_60X_cox\ds_for_up_load\v_1_200_0-2476_3_1-08_1\Reconstruction_0/Config_reconstruction.png"/>
+<img width="480" height="240" src="/fig/Config_reconstruction.png"/>
 </div>
 
 3. The reconstruction results will be saved in the subfolder `Reconstruction_0` under the directory `v_1_200_0-2476_3_1-08_1`.
